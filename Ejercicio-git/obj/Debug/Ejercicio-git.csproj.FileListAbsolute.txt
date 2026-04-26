@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\bin\Debug\Ejercicio-git.exe.config
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\bin\Debug\Ejercicio-git.exe
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\bin\Debug\Ejercicio-git.pdb
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\obj\Debug\Ejercicio-git.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\obj\Debug\Ejercicio-git.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\obj\Debug\Ejercicio-git.exe
+C:\Users\Lenovo\source\repos\Ejercicio-git\Ejercicio-git\obj\Debug\Ejercicio-git.pdb
