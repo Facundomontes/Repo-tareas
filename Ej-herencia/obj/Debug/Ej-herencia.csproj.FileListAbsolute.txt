@@ -1,0 +1,7 @@
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\bin\Debug\Ej-herencia.exe.config
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\bin\Debug\Ej-herencia.exe
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\bin\Debug\Ej-herencia.pdb
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\obj\Debug\Ej-herencia.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\obj\Debug\Ej-herencia.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\obj\Debug\Ej-herencia.exe
+C:\Users\alumno.ET26\5°10 2026\Ej-herencia\obj\Debug\Ej-herencia.pdb
